@@ -64,6 +64,7 @@ void markEE(Point S[], int n) {//n > 2
 //end(2)----Extreme Edge
 
 int main() {
+	
 
 	return 0;
 }
